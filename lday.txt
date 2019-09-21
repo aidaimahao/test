@@ -1,4 +1,4 @@
-oooo wo lam 
+﻿oooo wo lam 
 
 你知道奥了 我是很累的啊
 
@@ -6,3 +6,4 @@ oooo wo lam
 
 othre: i delete a raw
 
+i : i know
